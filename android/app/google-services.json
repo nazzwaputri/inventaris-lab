@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "261021020162",
+    "project_id": "flutter-crud-firebase-60ffa",
+    "storage_bucket": "flutter-crud-firebase-60ffa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261021020162:android:1796fd1ff23f78fdef371b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCof5HAL6iyQayV5PeTY1guUgqbh9qximc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261021020162:android:24ba6c6d0b47f6edef371b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_inventaris_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCof5HAL6iyQayV5PeTY1guUgqbh9qximc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261021020162:android:411adfd94efd1a95ef371b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_personal_finance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCof5HAL6iyQayV5PeTY1guUgqbh9qximc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
